@@ -6,7 +6,7 @@ No se tienen en cuenta los transitorios de tension corriente o potencia  dado qu
 
 Las medidas se realizaron el dia 11/7/2022 entre las 10:25 y las 12:37 
 
-Los dispositivos analizados,  asi como su orden es el sieguiente:
+Los dispositivos analizados,  asi como su orden es el siguiente:
 
  - 1 mains
  - 2 electric_furnace
