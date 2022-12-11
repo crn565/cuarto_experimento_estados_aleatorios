@@ -19,3 +19,5 @@ Los dispositivos analizados,  asi como su orden es el sieguiente:
  - 9 fan
  - 10 fridge
  - 11 freezer
+
+En este repositorio se adjunta el dataset generado (DSUAL) en formato HDFS5
